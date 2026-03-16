@@ -1,0 +1,8 @@
+BOT_TOKEN=-------
+ADMIN_ID=---------
+CHANNEL_ID=---------
+CHANNEL_LINK=https://t.me/---------
+DB_PATH=database/bot.db
+
+
+  .env
